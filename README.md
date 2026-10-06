@@ -25,4 +25,4 @@ cd 你的项目名
 docker-compose up -d
 
 # 3. 访问靶场
-# 浏览器打开 (http://199.180.115.102/forum.php)
+
